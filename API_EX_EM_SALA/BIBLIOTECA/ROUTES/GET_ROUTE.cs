@@ -1,5 +1,7 @@
 
-namespace BIBLIOTECA.App;
+using BIBLIOTECA.App;
+
+namespace BIBLIOTECA.ROUTES;
 
 public static class GET_ROUTE{
     public static void MapGetRoutes(this WebApplication app){
